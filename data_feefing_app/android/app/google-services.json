@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "809637063568",
+    "project_id": "healthtrcking-49549",
+    "storage_bucket": "healthtrcking-49549.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809637063568:android:e3df985392e114da4de115",
+        "android_client_info": {
+          "package_name": "com.example.data_feefing_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtpBxjDvRwNNA7ImJ8cM15x0PXE6qWxsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
